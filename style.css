@@ -68,7 +68,7 @@
 }
 .nav-list li a{
     text-decoration: none;
-    color: white;
+    color: black;
     font-size: 20px;
     min-width: 50px;
     margin-right: 20px;
@@ -92,7 +92,7 @@
     border:6px solid gold;
     border-radius: 9px;
     background-color: transparent;
-    color: white;
+    color: black;
 }
 .btn{
     border: 2px solid gold;
